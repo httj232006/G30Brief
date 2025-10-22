@@ -3,4 +3,8 @@
 
 # Harry: Will take any left over so everyone pick yours first
 
+
 # Shayne: will do the second viewpoint anaylsis 
+
+# Gordii: Will do the introduction part
+
