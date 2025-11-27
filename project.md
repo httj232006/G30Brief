@@ -45,11 +45,17 @@ Tiktok was initially launched as Douyin to the Chinese market in 2016 before lau
 # References:
 
 https://www.britannica.com/topic/social-media#ref1303882
+
 https://chuanqiwangyou.com/?p=28
+
 https://www.thoughtco.com/who-invented-facebook-1991791
+
 https://www.influize.com/blog/the-history-of-facebook
+
 https://www.britannica.com/money/Twitter
+
 https://historytimelines.co/timeline/instagram
+
 https://www.britannica.com/topic/TikTok
 
 
