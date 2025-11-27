@@ -9,8 +9,6 @@ The complexity and scale of social media’s influence make it essential to exam
 
 # Historical developments:
 
-Historical development:
-
 Milestone 1 – SixDegrees (1997 – 2001)
 
 SixDegrees.com which was launched in 1997 by Andrew Weinreich is widely regarded as the first true social networking site. SixDegrees contained and introduced most of the features which would come to characterise social networking sites such as user profiles, friend lists, and a direct / private messaging system. In 1999, SixDegrees purchased and acquired by the company Youthstream media networks for about 120 – 125 million dollars. According to Sixdegrees, they had brought in more than three million users by the year 2000, however it ultimately collapsed in 2001 due to low revenue and limited internet adoption. SixDegrees may have been short lived, but it laid the groundwork for the future of social media.
@@ -40,6 +38,20 @@ Tiktok was initially launched as Douyin to the Chinese market in 2016 before lau
 
 # Viewpoint 2:
 
-# Reflection:
+# Ethical Reflection:
 
 # Conclusion:
+
+# References:
+
+https://www.britannica.com/topic/social-media#ref1303882
+https://chuanqiwangyou.com/?p=28
+https://www.thoughtco.com/who-invented-facebook-1991791
+https://www.influize.com/blog/the-history-of-facebook
+https://www.britannica.com/money/Twitter
+https://historytimelines.co/timeline/instagram
+https://www.britannica.com/topic/TikTok
+
+
+
+
