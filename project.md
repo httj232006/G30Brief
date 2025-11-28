@@ -40,7 +40,7 @@ Tiktok was initially launched as Douyin to the Chinese market in 2016 before lau
 
 # Ethical Reflection:
 
-# Conclusion: !!!!!ONLY FIRST THIRD DONE!!!!
+# Conclusion: !!!!!ONLY FIRST HALF DONE!!!!
 Social media has changed the way we talk to each other and how we get our information probably more than anything else in the last couple of decades. It started off small with sites like SixDegrees and MySpace and now it has turned into this huge online world that effects almost every part of everyday life. Apps like Facebook, Instagram, Twitter, and TikTok have not just changed how we stay in touch. They have ended up influencing politics, business, and overall culture in the world.
 
 But the fast growth of these platforms comes with problems. There is alot of information being shared all the time and a lot of it is not checked or verified. That makes it tough to tell what is true and what is misinformation. Because of that, people need strong digital literacy skills so they can think critically about what they are seeing online. Issues like mental health, privacy, and how social media affects society still need a lot more attention.
