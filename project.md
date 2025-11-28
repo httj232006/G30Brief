@@ -34,6 +34,34 @@ Tiktok was initially launched as Douyin to the Chinese market in 2016 before lau
 
 # Viewpoint 1:
 
+Social & Cultural Viewpoint  
+
+The rise of social media has re-shaped not just how we communicate, but how we build our identity, culture, communities, and how we work together. Today, more than ever, social media plays a huge role in our social and cultural lives, the way I which we speak, belonging, a tool for activism, and global connection. 
+
+One of the biggest changes is how we communicate. Social media platforms have opened the door to new ways of interaction. That consists of short messages, images, memes, emojis, and instant sharing. These ways of communications are different from our traditional way of communication, changing the pace, tone, and social norms of conversation. A recent study suggests, social media use across cultures affects how people balance social benefits and social embarrassment when engaging online; what counts as sociability or public engagement can vary depending on cultural background.  
+
+Beyond language and communication style, social media has drastically changed the way we identify and our sense of belonging on social media. Through online communities, people can connect across physical boundaries, join subcultures, and find groups with shared values, including even if they are minorities or are spread out globally. This means that identity is no longer strictly tied to physical community, locality or traditional social structures. 
+
+In addition, social media is a powerful tool for sharing and combining cultures. People from different countries and cultural backgrounds can share traditions, trends, fashion, music, and art, leading to a global cultural mixing. This often results in new hybrid cultural forms emerging like online slang, humor styles, fashion sense, culture mixed memes, and more. In some cases, social media helps preserve the forgotten or indigenous cultures, for example, migrants from a particular ethnic group can use social platforms to share, revive, or preserve their cultural heritage even when living far from home.  
+
+A particularly important social role of social media is in community building, collective identity, and activism. Online platforms allow people to form groups around shared interests, beliefs, values, or causes whether social, political, cultural, or personal. These online communities can surpass physical locations, bringing together people who may never meet physically but share a common purpose or identity.  
+
+This potential has turned social media into a modern public sphere. Social movements, protests, and activism increasingly emerge or are supported online. Digital activism lowers barriers for participation, gives a voice to excluded or dispersed groups, and spreads awareness quickly. For example, recent research shows how online platforms help form collective identity and unity among participants of movements, even when they are physically distant.  
+
+At the same time, this cultural and social shift has downsides. One challenge is the rise of echo chambers and polarized communities. Because people often interact with others who share similar beliefs or backgrounds and may unfollow or block those who don’t; social media can lead to segregated and one sided communities. This can reduce exposure to diverse perspectives snd opinions, reinforcing pre-existing beliefs and biases.  
+
+Additionally, while online communities can support underrepresented or minority identities, social media culture can also lead to superficiality, social comparison and identity pressure. Users often create an idealized versions of themselves through photos, highlight reels, or selective sharing, which can create unrealistic standards. Watching others’ filtered lives can affect self-esteem, mental health, and sense of worth. This aspect of social media culture is widely discussed among critics and researchers. 
+
+Another cultural shift is how language and communication style evolve quickly on social media. New slang, memes, abbreviations, hashtags, and communication shortcuts spread globally almost overnight through the likes of Tiktok, Instragram and X. These shapes of digital language influence how people write and speak even offline, especially with today’s gene z.  
+
+At a societal level, social media has redefined our understanding of community and belonging. Instead of communities being defined by physical proximity (neighborhoods, towns, workplaces), many now define belonging by shared interests, values, identities, or causes online. This change blurs traditional social ways and expands who people can consider as community.  
+
+Understanding these social and cultural impacts helps us see that social media is not just a technology, but it a transformative social phenomenon shaping culture, identity, and our society. 
+
+ 
+
+ 
+
 # Viewpoint 2:
 
 Social media has had one of the biggest impacts on culture and society in the modern world. While the technological side explains how platforms make money, the cultural side shows how they effect peoples lives . social media is not just a communication tool anymore, it became a part of people, It rewired people and changed how they connect, share ideas, or even see themselves differently, looking at it from this perspective it can aid us in understanding the positives and negatives of the digital era.
@@ -44,6 +72,25 @@ On the positive side social changed production and creativity. Platforms like Ti
 Finally social media has changed identity and self expression. People now shape themselves and express themselves through posts. Alot of kids now grow up and social media is their main influence changing how they act, perceive themselves and how they want to be seen. Which effects their self-esteem and belonging.
 
 # Ethical Reflection:
+
+Ethical Reflection on the Evolution of Social Media 
+
+The fast growth of social media over the past two decades has changed how people interact, share culture, and communicate around the world. These platforms have also made it easier than ever to connect with others and access information. But they also raise profound ethical questions concerning privacy, mental health, misinformation, and social unity. Reflecting ethically on this evolution requires noticing both the empowering possibilities and the risks social media can bring, alongside suggesting ways for affective improvement. One of the most significant ethical benefits of social media is it helps everyone feel involved and supported. Social media has uplifted excluded groups and minorities to find community and a voice, and to bypass the usual people who control media and culture. Platforms let community-led activism, enabling movements such as #BlackLivesMatter and #MeToo to gain visibility and mobilize global support. This action helps to promote social justice and pluralism, as well as boosting good ethical values and participation. 
+
+ 
+
+However, the ethical challenges that we face by social media’s evolution is just as relevant. Privacy concerns are very important, the business gives many platforms to rely on extensive data collection and targeted advertising, often without users’ informed consent. This trading of personal data raises questions about autonomy and consent, as people may be unaware of how their digital footprints are getting exploited. In addition, social media’s design often make many people, both young and old addicted to the devices and the social media platforms that they use. This can greatly affect ones mental health, making them to have the likes, such as anxiety, depression, and lowered self-esteem. 
+
+Misinformation and social division represent another ethical dilemma. Algorithms that prioritize engagement often increase sensationalist or false content, fostering echo chambers and social division. This can harm open and honest public discussion and democracy, showing that platforms have a responsibility to balance free speech with what’s good for society. The spread of harmful content, like hate speech and disinformation, makes traditional rules less effective and shows the need for new, fair ways to manage it. 
+
+
+Improvements: 
+
+To ethically improve the evolution of social media, a lot of things should be prioritized. First, transparency and user control over data must be enhanced. Platforms should make clear, accessible privacy settings and allow users meaningful choices about data use. Ethical design principles, sometimes called humane technology, should guide product development to reduce addictive features and promote digital well-being. 
+
+Second, content should be monitored in a clear and fair way, including input from different groups, to reduce bias, protect free speech, and fight harmful misinformation. Collaboration between platforms, governments, and civil society can help standards that protect users without censorship. 
+
+Finally, media literacy education is essential, especially for young people. Equipping people to critically evaluate online information can help us to navigate complicated online environments ethically and responsibly. Social media platforms can support this through partnerships with educators and by promoting credible sources. 
 
 # Conclusion: !!!!!ONLY FIRST HALF DONE!!!!
 
@@ -72,3 +119,33 @@ https://www.britannica.com/money/Twitter
 https://historytimelines.co/timeline/instagram
 
 https://www.britannica.com/topic/TikTok
+
+https://www.sciencedirect.com/science/article/pii/S0747563219301062 
+
+https://networkconference.netstudies.org/2021/2021/04/26/social-media-and-the-re-structuring-of-communities-changing-perceptions 
+
+https://loudvoice.in/impact-of-social-media-on-cultural-identity 
+
+https://rsisinternational.org/journals/ijriss/articles/digital-activism-and-collective-identity-a-systematic-literature-review-of-social-medias-role-in-contemporary-social-movements 
+
+https://www.aspeninstitutece.org/article/2017/internet-social-media-changing-culture 
+
+https://www.researchgate.net/publication/367545577_SOCIAL_MEDIA_MEMES_A_STUDY_OF_ITS_IMPACT_ON_INTERCULTURAL_COMMUNICATIONS 
+
+ https://yalebooks.yale.edu/book/9780300166316/its-complicated 
+
+https://mitpress.mit.edu/books/hashtagactivism 
+
+https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/ 
+
+ https://www.simonandschuster.com/books/iGen/Jean-M-Twenge/9781501151989 
+
+ https://www.sup.org/books/title/?id=8866 
+
+https://www.humanetech.com 
+
+https://journals.sagepub.com/doi/10.3102/0002831216679817 
+
+ 
+
+ 
